@@ -11,9 +11,7 @@ Esta es una solución al [desafío de la vista previa a un artículo en Frontend
   - [Llevado a cabo con](#llevado-a-cabo-con)
   - [Lo que aprendí](#lo-que-aprendi)
   - [Desarrollo continuo](#desarrollo-continuo)
-  - [Recursos útiles](#recursos-utiles)
 - [Autor](#autor)
-- [Agradecimientos](#agradecimientos)
 
 ## Descripción general
 
@@ -42,7 +40,7 @@ Con esta página he tenido que crear un archivo con javascript para que a la hor
 ### Desarrollo continuo
 Esta página ha sido una primera toma de contacto con js, espero que en los siguientes proyectos más complejos aprenda y tenga más soltura con este lenguaje.
 
-### Autor 
+## Autor 
 - Usuario de Frontend - [@braismarquez2025](https://www.frontendmentor.io/profile/braismarquez2025)
 - Gmail - braismarquez2003@gmail.com
 
