@@ -1,4 +1,4 @@
-# Frontend Mentor - Solución de componentes de código QR
+# Frontend Mentor - Solución de vista previa a un artículo
 
 Esta es una solución al [desafío de la vista previa a un artículo en Frontend Mentor](https://www.frontendmentor.io/challenges/article-preview-component-dYBN_pYFT). Los desafíos de Frontend Mentor te ayudan a mejorar tus habilidades de programación creando proyectos realistas.
 
